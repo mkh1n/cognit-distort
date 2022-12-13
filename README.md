@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
 [![Actions Status](https://github.com/moxa-rumin/layout-designer-project-58/workflows/hexlet-check/badge.svg)](https://github.com/moxa-rumin/layout-designer-project-58/actions)<br>
-<a href='https://cognit-distort.surge.sh/'>Link to the project</a>
+Учебный проект по верстке лендинг странцы по <a href='https://www.figma.com/file/qV9FZGELdeKMsk63QLiKXY/Hexlet-LayoutDesigner-Project.-Cognitive-Biases'>макету</a><br>
+Ссылка на результат проекта: <a href='https://cognit-distort.surge.sh/'>тык</a>
 
