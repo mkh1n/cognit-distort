@@ -292,7 +292,7 @@ a{
 footer {
 	width: 1110px;
 	display: flex;
-	margin: 100px auto;
+	padding: 100px 165px;
 	flex-direction: column;
 	justify-content: center;
 	
